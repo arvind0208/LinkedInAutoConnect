@@ -7,10 +7,10 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "/images/linkedin.png",
-      "32": "/images/linkedin.png",
-      "48": "/images/linkedin.png",
-      "128": "/images/linkedin.png"
+      "16": "/linkedin.png",
+      "32": "/linkedin.png",
+      "48": "/linkedin.png",
+      "128": "/linkedin.png"
     }
   }
 }
