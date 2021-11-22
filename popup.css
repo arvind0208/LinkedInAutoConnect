@@ -1,0 +1,48 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+*{
+  font-size: 8px;
+  font-weight: 700;
+  background: black;
+}
+
+.container{
+  height: 120px;
+  width: 150px;
+  color:white;
+}
+.header{
+  background-color: #031f30;
+  padding: 5px;
+}
+
+.body{
+  width:100px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.body div{
+  text-align: center;
+}
+.action div{
+  padding: 5px;
+  border-radius: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+#stop{
+  background: burlywood;
+}
+#start{
+  background: green;
+}
+.hide{
+  display: none;
+}
+.text{
+  padding: 5px;
+}
